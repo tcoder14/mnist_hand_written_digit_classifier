@@ -4,7 +4,7 @@ A deep neural network built with **TensorFlow/Keras** that recognises handwritte
 
 ## Dataset
 
-[MNIST](http://yann.lecun.com/exdb/mnist/) contains grayscale images of handwritten digits:
+ MNIST dataset contains grayscale images of handwritten digits:
 
 - 60,000 training images
 - 10,000 test images
